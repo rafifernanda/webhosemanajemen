@@ -1,3 +1,3 @@
 # Website Manajemen Data
-Manajemen Data for Hose
-  Build using PHP Language and Codeigniter Framework
+Website Data Management for Hose
+Create using PHP Language and Codeigniter Framework
